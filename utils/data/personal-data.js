@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Jagadeesh Karuturi",
-  profile: '/profile.png',
+  profile: './profile.png',
   designation: "Computer Science Graduate",
   description: "My name is Jagadeesh Karuturi. I am a passionate and dedicated Computer Science student with hands-on experience in full-stack development and DevOps. I am a quick learner with a strong self-learning mindset and enjoy exploring new technologies. I take pride in solving real-world problems through code and building scalable web applications. My core skills include Java, Spring Boot, and cloud platforms like AWS and Docker. I am actively looking for opportunities where I can contribute, grow, and apply my skills in a meaningful way.",
   email: 'kjagadeesh620@gmail.com',
